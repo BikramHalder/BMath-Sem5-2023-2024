@@ -1,0 +1,10 @@
+bikram*
+
+.R*
+*_latexmk
+*.fls
+*.log
+*.out
+*.gz
+*.tar
+*.aux
