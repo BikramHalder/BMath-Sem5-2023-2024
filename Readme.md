@@ -4,11 +4,11 @@ Repository of resources for Semester 5 of B. Math 3rd Year students (2023-'24) a
 
 ## Courses Available
 
-- [ ] [Design and Analysis of Algorithms](Algorithms)
-- [ ] [Function Spaces](Function-Spaces)
-- [ ] [Probability III](Probability-3)
+- [x] [Design and Analysis of Algorithms](Algorithms)
+- [x] [Function Spaces](Function-Spaces)
+- [x] [Probability III](Probability-3)
 - [ ] [Analysis on Graphs](Analysis-on-Graphs)
-- [ ] [Differential Geometry and Lie Groups](Differential-Geometry-and-Lie-Groups)
+- [x] [Differential Geometry and Lie Groups](Differential-Geometry-and-Lie-Groups)
 
 ## How to Use?
 
@@ -21,6 +21,8 @@ Repository of resources for Semester 5 of B. Math 3rd Year students (2023-'24) a
 2. Clone the repo
 
 ```bash
+git clone git@github.com:BikramHalder/BMath-Sem5-2023-2024
+# or
 git clone https://github.com/BikramHalder/BMath-Sem5-2023-2024
 ```
 
@@ -30,7 +32,7 @@ git clone https://github.com/BikramHalder/BMath-Sem5-2023-2024
 git pull
 ```
 
-You can always [download the whole repo as a zip](https://github.com/BikramHalder/BMath-Sem5-2023-2024/archive/refs/heads/master.zip)
+You can always [download the whole repo as a zip](https://github.com/BikramHalder/BMath-Sem5-2023-2024/archive/refs/heads/main.zip)
 
 _Tip for Windows Users:_
 
